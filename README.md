@@ -1,2 +1,3 @@
 # Java
-Java Problems Solved
+Java Problem:
+	Program to count the number of vowel in a user provided word.
